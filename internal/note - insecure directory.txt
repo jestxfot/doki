@@ -1,0 +1,5 @@
+This is a scratch disk - do not use it to store sensitive or permanent things. If you need access to files from the encrypted file share, copy then to your disposable drive and plug it directly into the thin client. Do not copy them here."
+
+Rea is working on setting up a proxy mail server so we can have proper remote communication without having to worry about the higher-ups. Keep everything offline until then.
+
+Paula
