@@ -6,9 +6,6 @@
 File name	File path	File size	Required Time
 To Access
 
-
-Meeting notes 3.txt	1:58
-
 DDLC.txt	internal/4/0/4	1621 B	12:55
 
 Track 06 name ideas.txt	internal/1/2/3	302 B	4:30
