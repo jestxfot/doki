@@ -7,7 +7,7 @@ File name	File path	File size	Required Time
 To Access
 
 
-Meeting notes 3.txt	internal/0/3/0	438 B	1:58
+Meeting notes 3.txt	1:58
 
 DDLC.txt	internal/4/0/4	1621 B	12:55
 
