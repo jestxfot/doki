@@ -1,0 +1,11 @@
+Control simulation
+- Progress
+- Idea: Snapshot slightly earlier in time, compare end of control sim to start of VM1?
+- Better comparison that both being parallel - mature control sim vs. reference VM1
+- Easier to detect failures to hide elevated access permission
+
+Fifth entity in VM1?
+Not part of original genetic model, not present in data dumps...VERY bizarre
+
+Ive is less talkative today - meeting ending on time?
+12:55 omg
