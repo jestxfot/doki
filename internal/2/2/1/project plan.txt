@@ -1,1 +1,41 @@
+PROJECT PLAN OUTLINE
+--------------------
 
+High-level overview:
+
+1. Create human-readable version of Fabric Benchmark results (suggesting we live in a simulated universe)
+
+2. Emulate Fabric Benchmark results in virtualized environment
+
+3. Build parameters for genetic iterations (custom elevated access levels for one or more entities)
+
+4. Iterate until simulation is stable for target time threshold (this is our small-scale simulated universe!)
+
+5. Observe effects of elevated access/knowledge of simulation
+
+6. Collect/Record data
+
+7. Pitch findings to upper management as a profitable venture (Note: DO NOT go through Barry, go straight to upper management!)
+
+8. GET PROMOTED!!! Jobs saved!
+
+
+Possible team members:
+Ro (has most knowledge/access to Commander Quantum Server)
+Ravi (second to Ro)
+Lib (fix naming scheme conflict with "lib" folder)
+Ive (sure... why not)
+Others?
+
+
+VM1 - Current project (small-scale simulation)
+VM2 - Future project (medium-scale simulation)
+
+
+VM1 DETAILS
+-----------
+
+- Literature = Production of text assets, easy data collection
+- 4 entities ("characters")
+- Small physical space - efficient for server & genetic iterations
+- Highly elevated access permission creates very stable connection "window' for data collection, in exchange for less realistic simulated scenarios
