@@ -1,0 +1,17 @@
+FONT LICENSES 
+NotoSansJP-Regular.otf: Copyright 2012 Google Inc. All Rights Reserved. 
+NotoSansKR-Regular.otf: Copyright 2014, 2015 Adobe Systems Incorporated. 
+NotoSansSC-Regular.otf: Copyright 2014, 2015 Adobe Systems Incorporated. 
+NotoSansTC-Regular.otf: Copyright 2014, 2015 Adobe Systems Incorporated. 
+LiberationSans-Regular.ttf: Copyright (c) 2010 Google Corporation with Reserved Font Arimo, Tinos and Cousine, Copyright (c) 2012 Red Hat, Inc. with Reserved Font Name Liberation.
+HKGrotesk-Black.otf: Copyright (c) 2015, Alfredo Marco Pradil and HK Grotesk Cyrillic by Stefan Peev, with Reserved Font Name HK Grotesk.
+HKGrotesk-Regular.otf: Copyright (c) 2015, Alfredo Marco Pradil and HK Grotesk Cyrillic by Stefan Peev, with Reserved Font Name HK Grotesk.
+HKGrotesk-Bold.otf: Copyright (c) 2015, Alfredo Marco Pradil and HK Grotesk Cyrillic by Stefan Peev, with Reserved Font Name HK Grotesk.
+HKGrotesk-Medium.otf: Copyright (c) 2015, Alfredo Marco Pradil and HK Grotesk Cyrillic by Stefan Peev, with Reserved Font Name HK Grotesk. 
+HKGrotesk-SemiBold.otf: Copyright (c) 2015, Alfredo Marco Pradil and HK Grotesk Cyrillic by Stefan Peev, with Reserved Font Name HK Grotesk.
+Vera.ttf: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.
+VeralySerifMono.otf: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.
+Tinos-Regular.ttf: Digitized data copyright (c) 2010-2012 Google Corporation. 
+NotoMono-Regular.ttf: Copyright 2017 Google Inc. All Rights Reserved. Flexi IBM VGA False (2021) by VileR. This font is released under the Creative Commons Attribution-ShareAlike 4.0 International license. 
+NanumPenScript-Regular.ttf: Copyright 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+HachiMaruPop-Regular.ttf: Copyright 2020 The Hachi Maru Pop Project Authors. 
