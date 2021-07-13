@@ -12,7 +12,5 @@ Track 06 name ideas.txt	internal/1/2/3	302 B	4:30
 
 Meeting notes 2.txt	internal/1/3/0	818 B	9:15
 
-MES.txt	internal/3/4/4	1001 B	8:33
-
 14.txt	internal/5/0/1	1716 B	2:14
 
