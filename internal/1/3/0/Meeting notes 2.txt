@@ -1,0 +1,21 @@
+- Lib: Promising work on "recording" simulation activity into playable script
+- Playable = Observable form, NOT a game...stay focused Ive
+
+Pretending to type important things while waiting for everyone to get back on topic
+4:30 still target end time
+
+Assigning names to simulated entities for easier reference?
+- A, B, C, D should suffice
+- 1, 2, 3?
+- Using "real" names only encourages treating them like pets rather than simulated entities
+- Everyone is trying to come up with stupid names now
+
+Control simulation
+- Create identical VM without entity A having elevated access permissions?
+- Seems unlikely - nothing has come close so far
+- Clone VM1? Same elevated access but prevent the entity from discovering it?
+- Seems tricky, but plausible
+
+Meeting over time again
+
+jklsdfjklsdafjkjaggsfdjlsdfjk
